@@ -1,4 +1,4 @@
-This is the readme file for the first practical session in the course "2122-S2 Reinforcement Learning & Decision-Making: Computational & Neural Mechanisms".
+This is the readme file for the first practical session in the course "Reinforcement Learning & Decision-Making: Computational & Neural Mechanisms".
 
 To get started
 - go to colab (https://colab.research.google.com/)
